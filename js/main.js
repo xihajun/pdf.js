@@ -1,5 +1,5 @@
 // const url = 'http://www.t-es-t.hu/download/avix/avix_v05.pdf';
-const url = '../docs/pdf.pdf';
+const url = 'https://raw.githubusercontent.com/xihajun/pdf.js/master/docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
